@@ -42,6 +42,13 @@ h2 {
   font-style: normal 
   color: blue;
 }
+strong{
+  text-align: left;
+  font-family: Cambria;
+  font-size: 18px;
+  font-style: normal 
+  color: blue;
+}
 ul {
   list-style-type: rectangular
 
