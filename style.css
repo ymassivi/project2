@@ -8,28 +8,28 @@ h1 {
     text-align: center;
     font-family: Cambria;
     font-size: 20px;
-    font-style: italic
+    font-style: italic;
 }
 h4 {
   color: blue;
   text-align: center;
   font-family: Cambria;
   font-size: 10px;
-  font-style: italic
+  font-style: italic;
 }
 h3 {
     color: blue;
     text-align: left;
     font-family: Cambria;
     font-size: 15px;
-    font-style: italic
+    font-style: italic;
 }
 
 p {
    text-align: left;
    font-family: Cambria;
    font-size: 15px;
-   font-style: normal 
+   font-style: normal;
    color: black;
 	
 }
@@ -37,14 +37,14 @@ h2 {
     text-align: left;
     font-family: Cambria;
     font-size: 18px;
-    font-style: normal 
+    font-style: normal; 
     color: blue;
 }
 strong{
        text-align: left;
        font-family: Cambria;
        font-size: 18px;
-       font-style: normal 
+       font-style: normal; 
        color: blue;
 }
 ul {
