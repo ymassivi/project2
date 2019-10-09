@@ -1,1 +1,55 @@
+body {
+  background-color:  lightyellow;
+}
+ul {
+  color: rgba(77,0,255,0.6);
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: Cambria;
+  font-size: 2opx;
+  font-style: italic
+}
+h3 {
+  color: blue;
+  text-align: center;
+  font-family: Cambria;
+  font-size: 10px;
+  font-style: italic
+}
+
+p {
+	text-align: left;
+  font-family: Cambria;
+  font-size: 15px;
+  font-style: normal 
+	
+}
+h2 {
+	text-align: left;
+  font-family: Cambria;
+  font-size: 20px;
+  font-style: normal 
+}
+ul {
+  list-style-type: rectangular
+
+}
+img {
+	padding: 30px 60px 90px 120px;
+}
+embed{
+	padding: 30px 120px 30px 650px;
+}
+.nav {
+  border: 1px solid #ccc;
+  border-width: 1px 0;
+  text-align: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  
+}
 
