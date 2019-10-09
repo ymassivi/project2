@@ -1,17 +1,14 @@
 body {
-  background-color:  lightyellow;
-  color: blue;
-}
-ul {
-  color: blue;
+      background-color:  lightyellow;
+ 
 }
 
 h1 {
-  color: blue;
-  text-align: center;
-  font-family: Cambria;
-  font-size: 20px;
-  font-style: italic
+    color: blue;
+    text-align: center;
+    font-family: Cambria;
+    font-size: 20px;
+    font-style: italic
 }
 h4 {
   color: blue;
@@ -21,38 +18,38 @@ h4 {
   font-style: italic
 }
 h3 {
-  color: blue;
-  text-align: left;
-  font-family: Cambria;
-  font-size: 15px;
-  font-style: italic
+    color: blue;
+    text-align: left;
+    font-family: Cambria;
+    font-size: 15px;
+    font-style: italic
 }
 
 p {
-  text-align: left;
-  font-family: Cambria;
-  font-size: 15px;
-  font-style: normal 
-  color: blue;
+   text-align: left;
+   font-family: Cambria;
+   font-size: 15px;
+   font-style: normal 
+   color: black;
 	
 }
 h2 {
-  text-align: left;
-  font-family: Cambria;
-  font-size: 18px;
-  font-style: normal 
-  color: blue;
+    text-align: left;
+    font-family: Cambria;
+    font-size: 18px;
+    font-style: normal 
+    color: blue;
 }
 strong{
-  text-align: left;
-  font-family: Cambria;
-  font-size: 18px;
-  font-style: normal 
-  color: blue;
+       text-align: left;
+       font-family: Cambria;
+       font-size: 18px;
+       font-style: normal 
+       color: blue;
 }
 ul {
-  list-style-type: rectangular
-
+    list-style-type: rectangular;
+   
 }
 img {
 	padding: 30px 60px 90px 120px;
@@ -61,12 +58,12 @@ embed{
 	padding: 30px 120px 30px 650px;
 }
 .nav {
-  border: 1px solid #ccc;
-  border-width: 1px 0;
-  text-align: center;
-  list-style: none;
-  margin: 0;
-  padding: 0;
+      border: 1px solid #ccc;
+      border-width: 1px 0;
+      text-align: center;
+      list-style: none;
+      margin: 0;
+      padding: 0;
   
 }
 
