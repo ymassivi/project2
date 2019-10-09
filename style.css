@@ -6,28 +6,28 @@ body {
 h1 {
     color: blue;
     text-align: center;
-    font-family: Cambria;
-    font-size: 20px;
+    font-family: Cambria,Arial;
+    font-size: 30px;
     font-style: italic;
 }
 h4 {
   color: blue;
   text-align: center;
-  font-family: Cambria;
+  font-family: Cambria,Arial;
   font-size: 10px;
   font-style: italic;
 }
 h3 {
     color: blue;
     text-align: left;
-    font-family: Cambria;
+    font-family: Cambria.Arial;
     font-size: 15px;
     font-style: italic;
 }
 
 p {
    text-align: left;
-   font-family: Cambria;
+   font-family: Cambria,Arial;
    font-size: 15px;
    font-style: normal;
    color: black;
@@ -35,14 +35,14 @@ p {
 }
 h2 {
     text-align: left;
-    font-family: Cambria;
+    font-family: Cambria,Arial;
     font-size: 18px;
     font-style: normal; 
     color: blue;
 }
 strong{
        text-align: left;
-       font-family: Cambria;
+       font-family: Cambria,Arial;
        font-size: 18px;
        font-style: normal; 
        color: blue;
