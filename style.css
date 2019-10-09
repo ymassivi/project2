@@ -21,7 +21,7 @@ h3 {
     color: blue;
     text-align: left;
     font-family: Cambria.Arial;
-    font-size: 15px;
+    font-size: 18px;
     font-style: italic;
 }
 
@@ -36,14 +36,14 @@ p {
 h2 {
     text-align: left;
     font-family: Cambria,Arial;
-    font-size: 18px;
+    font-size: 25px;
     font-style: normal; 
     color: blue;
 }
 strong{
        text-align: left;
        font-family: Cambria,Arial;
-       font-size: 18px;
+       font-size: 20px;
        font-style: normal; 
        color: blue;
 }
