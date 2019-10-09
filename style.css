@@ -30,7 +30,7 @@ p {
    font-family: Cambria,Arial;
    font-size: 15px;
    font-style: normal;
-   color: black;
+   color: blue;
 	
 }
 h2 {
@@ -49,7 +49,7 @@ strong{
 }
 ul {
     list-style-type: rectangular;
-    color: black;
+    color: blue;
    
 }
 img {
