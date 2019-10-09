@@ -32,6 +32,7 @@ p {
   font-family: Cambria;
   font-size: 15px;
   font-style: normal 
+  color: blue;
 	
 }
 h2 {
@@ -39,6 +40,7 @@ h2 {
   font-family: Cambria;
   font-size: 18px;
   font-style: normal 
+  color: blue;
 }
 ul {
   list-style-type: rectangular
