@@ -23,7 +23,7 @@ h4 {
 h3 {
     color: red;
     text-align: left;
-    font-family: Cambria.Arial;
+    font-family: Cambria,Arial;
     font-size: 18px;
     font-style: italic;
 }
